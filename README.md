@@ -14,6 +14,8 @@ For the purpose are used simple classes, as the aim here is just to show one way
 * [Spring](https://spring.io/) - The web framework used is Spring
 * [Maven](https://maven.apache.org/) - Dependency Management
 
+## Useful Tools
+* Postman - for the http requests (a good way to see after which http requests in this case the cache is being updated or evicted for example)
 ## Authors
 
 * **Eve Lin**
